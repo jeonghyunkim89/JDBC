@@ -1,0 +1,1 @@
+INSERT INTO MEMBER VALUES (SEQ_USERNO.NEXTVAL, 'dool6137', '1234', '±èÁ¤Çö', 'F', 0,'null', 'null', 'null', 'null', SYSDATE)
